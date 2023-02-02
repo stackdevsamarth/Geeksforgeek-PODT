@@ -1,4 +1,4 @@
-//Distinct Coloring. //1-feb-2023
+//Distinct Coloring. //1-Feb-2023
 
 
 class Solution{
